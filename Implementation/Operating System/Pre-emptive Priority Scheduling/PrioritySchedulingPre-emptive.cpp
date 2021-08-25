@@ -1,3 +1,7 @@
+/* Implemented By Purnendu Talukder
+Ahsanullah University Of Science and Technology
+Department: CSE       Batch: 41*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
